@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Today Weather</string>
+    <string name="sentence_enter_city_name">Enter city name</string>
+    <string name="sentence_feels_like">Feels Like</string>
+    <string name="sentence_temp_min">Temp Min</string>
+    <string name="sentence_temp_max">Temp Max</string>
+    <string name="sentence_humidity">Humidity</string>
+    <string name="sentence_visibility">Visibility</string>
+    <string name="sentence_pressure">Pressure</string>
+    <string name="sentence_clouds_all">Clouds All</string>
+    <string name="sentence_wind_speed">Wind Speed</string>
+    <string name="sentence_wind_deg">Wind Deg</string>
+    <string name="sentence_welcome">Welcome to Today Weather, please enter city name for its own weather information.</string>
+    <string name="sentence_input_error">Oops! you have enter invalid city name, please try again.</string>
+</resources>

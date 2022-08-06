@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimens for margin & padding  -->
+    <dimen name="margin_very_small">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">14dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_very_large">32dp</dimen>
+    <dimen name="margin_largest">64dp</dimen>
+
+    <!-- Dimens text sizes  -->
+    <dimen name="text_size_small">8sp</dimen>
+    <dimen name="text_size_units">12sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+    <dimen name="text_size_very_large">32sp</dimen>
+    <dimen name="text_size_largest">64sp</dimen>
+
+</resources>
